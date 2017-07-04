@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <defs>
+   <radialGradient spreadMethod="pad" id="svg_10">
+    <stop offset="0" stop-color="#c6c0c0"/>
+    <stop offset="1" stop-color="#393f3f"/>
+   </radialGradient>
+   <radialGradient spreadMethod="pad" id="svg_11">
+    <stop offset="0" stop-color="#e5e0e0"/>
+    <stop offset="1" stop-color="#1a1f1f"/>
+   </radialGradient>
+  </defs>
+  <ellipse stroke="#050505" ry="116.500003" rx="115.000001" id="svg_1" cy="190.099996" cx="300.000001" stroke-width="5" fill="url(#svg_11)"/>
+  <ellipse stroke="#c1bdbd" transform="rotate(1.259045124053955 291.31256103515756,196.62886047363347) " ry="106.164675" rx="102.320957" id="svg_2" cy="196.628857" cx="291.312551" stroke-width="5" fill="url(#svg_10)"/>
+  <ellipse id="svg_4" cy="69.6" cx="205" stroke-width="5" stroke="#000000" fill="#FF0000"/>
+  <ellipse id="svg_8" cy="81.6" cx="185" stroke-width="5" stroke="#000000" fill="#FF0000"/>
+  <text style="cursor: text;" stroke="#c1bdbd" transform="matrix(5.6955695152282715,0,0,6.5322675704956055,-1291.2082484140992,-1009.033739849925) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_13" y="192.449361" x="275.900544" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">CR</text>
+ </g>
+</svg>
